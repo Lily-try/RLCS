@@ -34,6 +34,6 @@ for cora:
 
 ```bash
 python main.py --dataset cora --attack none
-python main.py --dataset cora --attack random_add
+python main.py --dataset cora --attack random_add --ptb_rate 0.2
 ```
 
